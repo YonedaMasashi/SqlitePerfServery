@@ -1,0 +1,4 @@
+¡ parquet ‚ğ DataTable ‚É•ÏŠ·
+https://stackoverflow.com/questions/69859697/how-to-create-schema-for-parquet-net-using-the-net-data-table
+https://stackoverflow.com/questions/65041373/creating-a-file-as-a-stream-and-uploading-to-azure
+
